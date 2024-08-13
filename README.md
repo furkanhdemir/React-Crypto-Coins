@@ -1,31 +1,14 @@
-# React E-Commerce-Project
+# React Crypto Coins
 
 ## About the Project
 
-There are 2 different types of entrances in the project. The first is as Client and the second is as Admin. When the client registers and logs in, he can view the products, add products to the cart, place an order and see his account details. In addition to all these, the admin can add new products to the database, edit products, and view users' information.
-
-### Login information
-
-`Client`
-
-E-mail: client@client.com
-
-Password:123456
-
-`Admin`
-
-Email: admin@admin.com
-
-Password:123456
+The cryptocurrency app instantly retrieves the data of cryptocurrencies using the API. You can see the name, symbol and current price of cryptocurrencies and search for the cryptocurrency you want.
 
 ## Screenshots
 
 ![01!](crypto-app/src/photos/1.png)
-![02!](ecommerce/client/src/photos/02.PNG)
-![03!](ecommerce/client/src/photos/03.PNG)
-![04!](ecommerce/client/src/photos/04.PNG)
-![05!](ecommerce/client/src/photos/05.PNG)
-![06!](ecommerce/client/src/photos/06.PNG)
+![02!](crypto-app/src/photos/2.png)
+
 
 ## Packages Used
 
@@ -33,17 +16,7 @@ The following packages were used during application development.
 
 `React`
 
-`React Router Dom`
-
-`React Query`
-
-`Yup`
-
-`antd`
-
-`Formik`
-
-`Chakra UI`
+`Axios`
 
 ## Database
 
@@ -73,13 +46,7 @@ To run the project, you need to install the following packages.
   npm install
 ```
 
-3. Run the backend (inside the backend folder)
-
-```bash
-  npm run dev
-```
-
-4. Run the client (inside the client folder)
+3 Run the client (inside the client folder)
 
 ```bash
   npm start
