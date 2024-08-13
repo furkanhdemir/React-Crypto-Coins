@@ -42,7 +42,7 @@ To run the project, you need to install the following packages.
   npm install
 ```
 
-3 Run the client (inside the client folder)
+3 Run the crypto-app (inside the crypto-app folder)
 
 ```bash
   npm start
