@@ -37,7 +37,7 @@ To run the project, you need to install the following packages.
 1. Clone Github repo
 
 ```bash
-  git clone https://github.com/furkanhdemir/React-E-Commerce-
+  git clone https://github.com/furkanhdemir/crypto-app
 ```
 
 2. Install NPM packages
