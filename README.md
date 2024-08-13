@@ -20,7 +20,7 @@ Password:123456
 
 ## Screenshots
 
-![01!](crypto-app/crypto-app/src/photos/1.PNG)
+![01!](crypto-app/src/photos/1.png)
 ![02!](ecommerce/client/src/photos/02.PNG)
 ![03!](ecommerce/client/src/photos/03.PNG)
 ![04!](ecommerce/client/src/photos/04.PNG)
