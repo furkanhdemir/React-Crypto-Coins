@@ -18,10 +18,6 @@ The following packages were used during application development.
 
 `Axios`
 
-## Database
-
-`MongoDB`
-
 ## Begin
 
 To run the project, you need to install the following packages.
